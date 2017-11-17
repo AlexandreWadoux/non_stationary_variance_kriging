@@ -3,11 +3,11 @@ Sample codes for our paper [ Sampling design optimisation for rainfall predictio
 
 Here is a brief introduction on the utilities for each script.
 
-- **"/1 Install the variography package"** You can download variography.zip and install it through R. 
+- **/1 Install the variography package** You can download variography.zip and install it through R. 
 
-- **"/2 Load the likelihood"** You must download and save the likelihood.R script. This is then loaded in the main.R script.
+- **/2 Load the likelihood** You must download and save the likelihood.R script. This is then loaded in the main.R script.
 
-- **"/3 Run main.R"** You can run main.R after installing the necessary packages.
+- **/3 Run main.R** You can run main.R after installing the necessary packages.
 
 
 For more information, please contact [Alexandre Wadoux](http://wadoux.org/).
