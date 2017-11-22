@@ -1,5 +1,5 @@
 # Simple example showing REML estimation of non-stationary variance parameters,
-#and kriging with an external drift with non-stationary variance paarmeters
+# and kriging with an external drift with non-stationary variance paarmeters
 
 library(DEoptim)
 library(variography)
