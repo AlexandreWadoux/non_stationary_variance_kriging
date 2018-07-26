@@ -1,5 +1,5 @@
 # Kriging with external drift and non-stationary variance 
-Sample codes for our paper [ Sampling design optimisation for rainfall prediction using a non-stationary geostatistical model](http://www.sciencedirect.com/science/article/pii/S0309170817300830) and Accounting for non-stationary variance in geostatistical mapping of soil properties (submitted).
+Sample codes for our paper [ Sampling design optimisation for rainfall prediction using a non-stationary geostatistical model](http://www.sciencedirect.com/science/article/pii/S0309170817300830) and [Accounting for non-stationary variance in geostatistical mapping of soil properties](https://www.sciencedirect.com/science/article/pii/S0016706117319730).
 
 Here is a brief introduction on the utilities for each script.
 
