@@ -140,7 +140,7 @@ library(ggplot2)
 ggplot(data = grid) +
   geom_tile(mapping = aes(x = x1, y = x2, fill = pred)) +
   scale_x_continuous(name = "Easting (km)") +
-  scale_y_continuous(ame = "Northing (km) \n") +
+  scale_y_continuous(name = "Northing (km) \n") +
   scale_fill_continuous(name = "pred")+
   coord_equal(ratio = 1)
 
